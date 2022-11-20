@@ -1,4 +1,3 @@
-% Example 5.1 of our paper 
-% The Hybrid-dimensional Darcy¡¯s Law: A Novel1Discrete Fracture Model for 
-% fracture and barrier networks on Non-conforming Meshes, Ziyao Xu, Zhaoqin
-% Huang, Yang Yang
+% Example 5.4 of the paper 
+% The hybrid-dimensional Darcy's law: a non-conforming reinterpreted discrete fracture model (RDFM) for single-phase flow in fractured media,
+% Ziyao Xu, Zhaoqin Huang, Yang Yang
